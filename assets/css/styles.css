@@ -1,0 +1,28 @@
+body{
+    background-color: #343a40 !important;
+}
+
+.card{
+    border-color: black;
+}
+
+.card-header{
+    background-color: #212529;
+}
+
+.float-right{
+    color: #FFAC49;
+}
+
+.card-body{
+    background-color: #343a40;
+}
+
+.list-group-item:last-child{
+    color: #FFAC49;
+    background-color: #3b3f43c7;
+}
+.btn.btn-link {
+    color: #FFAC49 !important;
+}
+
